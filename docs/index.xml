@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on José Ignacio Retamal - Taller Producto 2021</title>
+    <link>/docs/</link>
+    <description>Recent content in Docs on José Ignacio Retamal - Taller Producto 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>POST-1</title>
+      <link>/docs/post-1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/post-1/</guid>
+      <description>Contenidos de mi Post-1</description>
+    </item>
+    
+    <item>
+      <title>Taller de Producto 2021</title>
+      <link>/docs/_index/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/docs/_index/</guid>
+      <description>Documentación del Taller de Producto Este template será utilizado para generar la documentación de los trabajos realizados en el Taller de Producto 2021.</description>
+    </item>
+    
+    <item>
+      <title>SHORTCODES</title>
+      <link>/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>MARKDOWNS</title>
+      <link>/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/markdown/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+  </channel>
+</rss>
