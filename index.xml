@@ -8,48 +8,39 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Encargo 01</title>
-      <link>/docs/post-1/</link>
+      <title>E00 - Fabricación Digital</title>
+      <link>/docs/post-1/e00-fabricacion-/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/post-1/</guid>
+      <guid>/docs/post-1/e00-fabricacion-/</guid>
       <description>Contenidos de mi Post-1</description>
     </item>
     
     <item>
-      <title>Entrega 02 - Planimetria</title>
-      <link>/docs/entrega-planimetria/</link>
+      <title>E01 - Planimetría</title>
+      <link>/docs/entrega-planimetria/e02-planimetria/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/entrega-planimetria/</guid>
+      <guid>/docs/entrega-planimetria/e02-planimetria/</guid>
       <description>Video Tutoriales del modulo de planimetrías de Fusion 360</description>
     </item>
     
     <item>
-      <title>Encargo 03 - CNC</title>
-      <link>/docs/nueva-carpeta/markdown/</link>
+      <title>E02 - Mecanizado CNC</title>
+      <link>/docs/nueva-carpeta/markdown/e02-mecanizado-cnc/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/nueva-carpeta/markdown/</guid>
+      <guid>/docs/nueva-carpeta/markdown/e02-mecanizado-cnc/</guid>
       <description>Encargo 03- Mejorar el post de CNC</description>
     </item>
     
     <item>
-      <title>SHORTCODES</title>
-      <link>/docs/ejemplo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>/docs/ejemplo/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
-      <title>Encargo 04 - </title>
-      <link>/docs/_index/</link>
+      <title>E03 - Mecanizado CNC 2,5</title>
+      <link>/docs/e03-mecanizado-2.5/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>/docs/_index/</guid>
-      <description>Documentación del Taller de Producto Este template será utilizado para generar la documentación de los trabajos realizados en el Taller de Producto 2021.</description>
+      <guid>/docs/e03-mecanizado-2.5/</guid>
+      <description>¿Como funciona un mecanizado CNC 2,5? Las operaciones de mecanizado en 2,5 ejes son un conjunto de procedimientos que se pueden aplicar en centros de mecanizado 2,5 ejes y 3 ejes (comúnmente conocidas como fresadoras), para fabricar piezas de distintos materiales, moviendo la herramienta en las coordenadas X e Y a la vez durante el corte de material o arranque de viruta.</description>
     </item>
     
     <item>
