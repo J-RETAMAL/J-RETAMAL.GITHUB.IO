@@ -8,34 +8,34 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://j-retamal.github.io/taller-ciudad-espacio/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ejemplo Shortcodes</title>
-      <link>https://j-retamal.github.io/taller-ciudad-espacio/docs/shortt/</link>
+      <title>1 - Tema</title>
+      <link>https://j-retamal.github.io/taller-ciudad-espacio/docs/tema-copy-4/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://j-retamal.github.io/taller-ciudad-espacio/docs/shortt/</guid>
+      <guid>https://j-retamal.github.io/taller-ciudad-espacio/docs/tema-copy-4/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
-      <title>Ejemplo Shortcodes</title>
-      <link>https://j-retamal.github.io/taller-ciudad-espacio/docs/ejemplo-copy-2/</link>
+      <title>2 - Dibujos</title>
+      <link>https://j-retamal.github.io/taller-ciudad-espacio/docs/tema/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://j-retamal.github.io/taller-ciudad-espacio/docs/ejemplo-copy-2/</guid>
+      <guid>https://j-retamal.github.io/taller-ciudad-espacio/docs/tema/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
-      <title>Ejemplo Shortcodes</title>
-      <link>https://j-retamal.github.io/taller-ciudad-espacio/docs/ejemplo-copy-3/</link>
+      <title>3 - Propuesta de Valor</title>
+      <link>https://j-retamal.github.io/taller-ciudad-espacio/docs/tema-copy/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://j-retamal.github.io/taller-ciudad-espacio/docs/ejemplo-copy-3/</guid>
+      <guid>https://j-retamal.github.io/taller-ciudad-espacio/docs/tema-copy/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
-      <title>Ejemplo Shortcodes</title>
+      <title>4 - Animación</title>
       <link>https://j-retamal.github.io/taller-ciudad-espacio/docs/ejemplo-copy-4/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
@@ -44,11 +44,29 @@
     </item>
     
     <item>
-      <title>Ejemplo Shortcodes</title>
-      <link>https://j-retamal.github.io/taller-ciudad-espacio/docs/ejemplo-copy/</link>
+      <title>5 - Modelado 3D</title>
+      <link>https://j-retamal.github.io/taller-ciudad-espacio/docs/tema-copy-2/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://j-retamal.github.io/taller-ciudad-espacio/docs/ejemplo-copy/</guid>
+      <guid>https://j-retamal.github.io/taller-ciudad-espacio/docs/tema-copy-2/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>6 - Midterm</title>
+      <link>https://j-retamal.github.io/taller-ciudad-espacio/docs/tema-copy-3/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://j-retamal.github.io/taller-ciudad-espacio/docs/tema-copy-3/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://j-retamal.github.io/taller-ciudad-espacio/docs/shortt/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://j-retamal.github.io/taller-ciudad-espacio/docs/shortt/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
