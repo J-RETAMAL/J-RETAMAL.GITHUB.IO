@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on José Ignacio Retamal - Taller Producto 2021</title>
-    <link>https://j-retamal.github.io/taller-fabricacion/docs/</link>
+    <link>https://j-retamal.github.io/fabricacion-digital/docs/</link>
     <description>Recent content in Docs on José Ignacio Retamal - Taller Producto 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://j-retamal.github.io/taller-fabricacion/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://j-retamal.github.io/fabricacion-digital/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>E00 - Fabricación Digital</title>
-      <link>https://j-retamal.github.io/taller-fabricacion/docs/post-1/e00-fabricacion-/</link>
+      <link>https://j-retamal.github.io/fabricacion-digital/docs/post-1/e00-fabricacion-/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://j-retamal.github.io/taller-fabricacion/docs/post-1/e00-fabricacion-/</guid>
+      <guid>https://j-retamal.github.io/fabricacion-digital/docs/post-1/e00-fabricacion-/</guid>
       <description>Contenidos de mi Post-1</description>
     </item>
     
     <item>
       <title>E01 - Planimetría</title>
-      <link>https://j-retamal.github.io/taller-fabricacion/docs/e01-planimetria/e01-planimetria/</link>
+      <link>https://j-retamal.github.io/fabricacion-digital/docs/e01-planimetria/e01-planimetria/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://j-retamal.github.io/taller-fabricacion/docs/e01-planimetria/e01-planimetria/</guid>
+      <guid>https://j-retamal.github.io/fabricacion-digital/docs/e01-planimetria/e01-planimetria/</guid>
       <description>Video Tutoriales del modulo de planimetrías de Fusion 360</description>
     </item>
     
     <item>
       <title>E02 - Mecanizado CNC</title>
-      <link>https://j-retamal.github.io/taller-fabricacion/docs/nueva-carpeta/markdown/e02-mecanizado-cnc/</link>
+      <link>https://j-retamal.github.io/fabricacion-digital/docs/nueva-carpeta/markdown/e02-mecanizado-cnc/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://j-retamal.github.io/taller-fabricacion/docs/nueva-carpeta/markdown/e02-mecanizado-cnc/</guid>
+      <guid>https://j-retamal.github.io/fabricacion-digital/docs/nueva-carpeta/markdown/e02-mecanizado-cnc/</guid>
       <description>Encargo 03- Mejorar el post de CNC</description>
     </item>
     
     <item>
       <title>E03 - Mecanizado CNC 2,5</title>
-      <link>https://j-retamal.github.io/taller-fabricacion/docs/e03-mecanizado-2.5/</link>
+      <link>https://j-retamal.github.io/fabricacion-digital/docs/e03-mecanizado-2.5/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>https://j-retamal.github.io/taller-fabricacion/docs/e03-mecanizado-2.5/</guid>
+      <guid>https://j-retamal.github.io/fabricacion-digital/docs/e03-mecanizado-2.5/</guid>
       <description>¿Como funciona un mecanizado CNC 2,5? Las operaciones de mecanizado en 2,5 ejes son un conjunto de procedimientos que se pueden aplicar en centros de mecanizado 2,5 ejes y 3 ejes (comúnmente conocidas como fresadoras), para fabricar piezas de distintos materiales, moviendo la herramienta en las coordenadas X e Y a la vez durante el corte de material o arranque de viruta.</description>
     </item>
     
     <item>
       <title>E04 - Simulación y Diseño Generativo</title>
-      <link>https://j-retamal.github.io/taller-fabricacion/docs/e04-simulacion-y-dise%C3%B1o-generativo/</link>
+      <link>https://j-retamal.github.io/fabricacion-digital/docs/e04-simulacion-y-dise%C3%B1o-generativo/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>https://j-retamal.github.io/taller-fabricacion/docs/e04-simulacion-y-dise%C3%B1o-generativo/</guid>
+      <guid>https://j-retamal.github.io/fabricacion-digital/docs/e04-simulacion-y-dise%C3%B1o-generativo/</guid>
       <description>Diseño Generativo El la función diseño generativo de Fusion 360 es un software para desarrollar productos que optimiza materiales y procesos de producción, cumpliendo con los requisitos de rendimiento estipulados en cuestion.</description>
     </item>
     
     <item>
       <title>E05 - Impresión 3D</title>
-      <link>https://j-retamal.github.io/taller-fabricacion/docs/e05-impresion3d-copy/</link>
+      <link>https://j-retamal.github.io/fabricacion-digital/docs/e05-impresion3d-copy/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>https://j-retamal.github.io/taller-fabricacion/docs/e05-impresion3d-copy/</guid>
+      <guid>https://j-retamal.github.io/fabricacion-digital/docs/e05-impresion3d-copy/</guid>
       <description>¿Que es y como funciona una impresora 3d? Una impresora 3D es un dispositivo capaz de crear cuerpos físicos sólidos tridimensionales depositando material capa por capa en uno de sus ejes.</description>
     </item>
     
     <item>
       <title>E06 - Complementarios</title>
-      <link>https://j-retamal.github.io/taller-fabricacion/docs/e06-compleentarios/</link>
+      <link>https://j-retamal.github.io/fabricacion-digital/docs/e06-compleentarios/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>https://j-retamal.github.io/taller-fabricacion/docs/e06-compleentarios/</guid>
+      <guid>https://j-retamal.github.io/fabricacion-digital/docs/e06-compleentarios/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>E07 - Examen: Material</title>
-      <link>https://j-retamal.github.io/taller-fabricacion/docs/e07-examen-materiales/</link>
+      <link>https://j-retamal.github.io/fabricacion-digital/docs/e07-examen-materiales/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>https://j-retamal.github.io/taller-fabricacion/docs/e07-examen-materiales/</guid>
+      <guid>https://j-retamal.github.io/fabricacion-digital/docs/e07-examen-materiales/</guid>
       <description>Biomateriales Para empezar a comprender un poco el término “Biomaterial” podemos definirlo en base a la composición de su misma palabra “bio” siendo la vida y “material” como la sustancia misma.</description>
     </item>
     
     <item>
       <title>MARKDOWNS</title>
-      <link>https://j-retamal.github.io/taller-fabricacion/docs/markdown/</link>
+      <link>https://j-retamal.github.io/fabricacion-digital/docs/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://j-retamal.github.io/taller-fabricacion/docs/markdown/</guid>
+      <guid>https://j-retamal.github.io/fabricacion-digital/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
